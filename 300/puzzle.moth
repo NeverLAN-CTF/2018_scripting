@@ -1,0 +1,10 @@
+Author: bt
+Summary: JSON parsing 2
+File: vt_minute_output.tar.bz2
+Answer: lolno
+
+The attached file is metadata about one minute's uploads to VirusTotal. You can download it if you want, but it's the same archive as the 20 point challenge. Really- I promise. 
+
+The answer to this puzzle is an MD5 hash of one of the PE resources seen most commonly in the data among files submitted by multiple users.
+
+NOTE: There are multiple correct answers here- submit any single appropriate MD5 hash.

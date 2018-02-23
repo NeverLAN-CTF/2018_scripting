@@ -1,0 +1,12 @@
+Author: bt
+Summary: JSON parsing 1
+File: vt_minute_output.tar.bz2
+Answer: lolno
+
+The attached file is metadata about one minute's uploads to VirusTotal. 
+
+The answer to this puzzle is a comma-separated list of the five antivirus engines that produced the highest percentage of posities in descending order.
+
+Don't draw any conclusions about the efficacy of any antivirus products from this exercise- VirusTotal receives a mixture of malicious and non-malicious files, so it's not necessarily better to have a high ratio than a low one or the other way around here. I also have no associated with any of them. It's just a data manipulation puzzle, people =)
+
+NOTE: The answer should be submitted with no spaces and the engine names should be exactly as they appear in the source data.

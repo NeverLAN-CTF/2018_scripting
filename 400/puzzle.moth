@@ -1,0 +1,12 @@
+Author: bt
+Summary: JSON parsing, exploring data, and using imports
+File: vt_minute_output.tar.bz2
+Answer: lolno
+
+The attached file is metadata about one minute's uploads to VirusTotal. You can download it if you want, but it's the same archive as the 20 point challenge and 30 point challenge. Really- I promise. 
+
+The answer to this puzzle is the match score and MD5 hash of the file with the closest fuzzy hash to the file with the second highest number of positive detections.
+
+NOTE: The answer will look like "score:md5". For instance: "83:37c8a3e799994af2066358b75cedd03a"
+
+NOTE: Three files are all tied for the most detections. One file has the next most. Use that file.
